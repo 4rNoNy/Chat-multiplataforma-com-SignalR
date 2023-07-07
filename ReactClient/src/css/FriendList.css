@@ -1,0 +1,35 @@
+.friend-list-card {
+    width: 18rem;
+    max-width: 350px;
+    position: fixed;
+    right: 25px;
+    bottom: 1px;
+    z-index: 222;
+    border-radius: 10px;
+}
+
+.friend-list-card-header {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+.friend-list-card-body {
+    padding: 0;
+}
+
+.friend-list-item {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.friend-list-item:last-child {
+    border-bottom: none;
+}
+
+.chat-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}

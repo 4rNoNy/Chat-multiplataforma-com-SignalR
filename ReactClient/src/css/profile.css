@@ -1,0 +1,22 @@
+.name-profile {
+    background-color: white !important;
+
+}
+
+.button-post {
+    margin: auto;
+}
+
+.card-info {
+    margin: 10%;
+    bottom: 0;
+}
+
+.fit-img {
+    height: 280px;
+}
+
+.crow {
+    height: 330px;
+    width: 100%;
+}

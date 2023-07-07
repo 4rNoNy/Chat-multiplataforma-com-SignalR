@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#000000"
+  image: assets/images/login_background.jpg
+  
+
+  android_12:
+    image: assets/images/login_background.jpg
+    
+
+  android: true
+  ios: true
+  web: true
